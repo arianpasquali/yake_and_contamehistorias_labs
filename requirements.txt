@@ -1,0 +1,2 @@
+git+http://github.com/LIAAD/yake
+git+https://github.com/LIAAD/TemporalSummarizationFramework
